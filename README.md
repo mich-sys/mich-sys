@@ -29,12 +29,11 @@ Young and highly efficient with passion for Web Application Development.I am foc
 * ⚡  Linux Fanboy 
 
 <a href="https://twitter.com/mich_sys" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mich-sys ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
+src="https://img.shields.io/twitter/follow/mich-sys?style=social ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
 /></a>
 
-<a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yhoungdev?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a><a href="https://www.twitch.tv/obiabo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/obiabo?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=181824&label=TWITCH+STATUS" /></a>
+<a href="https://www.github.com/mich-sys" target="_blank" rel="noreferrer"><img
+src="[https://img.shields.io/github/followers/mich-sys?style=social?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a><a 
 
 #### Achievments 
 
