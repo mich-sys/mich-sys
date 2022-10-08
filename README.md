@@ -33,8 +33,9 @@ src="https://img.shields.io/twitter/follow/mich-sys?style=social?logo=twitter&st
 /></a>
 
 <a href="https://www.github.com/mich-sys" target="_blank" rel="noreferrer"><img
-src="[https://img.shields.io/github/followers/mich-sys?style=social?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a><a 
+src="https://img.shields.io/twitter/follow/mich-sys?color=black&logo=twitter&style=social" /></a><a 
 
+                                                                                                                                             
 #### Achievments 
 
 <table>
