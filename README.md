@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mich-sys/mich-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,12 +23,12 @@ Here are some ideas to get you started:
 Christ Follower | Frontend Engineer | 
 ------------------------------------------------------------
 
-I bring applications and designs to live with ReactJs , Typescript and Astro.build . Contributing to the tech ecosystem with Opensource , because the Future is Open, I live in the Linux env, when am bored i solve CAPCHTA and go for skating 🛼
-
+Young and highly efficient with passion for Web Application Development.I am focused on creating interactive digital experiences on the web with ReactJs . Contributing to the tech ecosystem with Opensource , because the Future is Open, when I'm bored i play Call Of Duty and go for walks 🛼
+ 
 * 🌍  I'm based in 127.0.0.1
 * ⚡  Linux Fanboy 
 
-<a href="https://www.twitter.com/obiabo_immanuel " target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/ademeji_michael " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
 /></a>
 
