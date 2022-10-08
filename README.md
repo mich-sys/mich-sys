@@ -28,7 +28,7 @@ Young and highly efficient with passion for Web Application Development.I am foc
 * 🌍  I'm based in 127.0.0.1
 * ⚡  Linux Fanboy 
 
-<a href="https://www.twitter.com/ademeji_michael " target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/mich-sys " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
 /></a>
 
