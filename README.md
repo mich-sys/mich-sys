@@ -20,6 +20,11 @@ Here are some ideas to get you started:
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </Whoam I> ( Ademeji Michael )
 ====================================================================================================================================
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Ademeji Michael." src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+
 Christ Follower | Frontend Engineer | 
 ------------------------------------------------------------
 
