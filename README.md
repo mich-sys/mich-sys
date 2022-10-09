@@ -30,12 +30,12 @@ Young and highly efficient with passion for Web Application Development.I am foc
 
 
 
-<a href="https://www.twitter.com/obiabo_immanuel " target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
+<a href="https://www.twitter.com/mich_sys " target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mich-sys ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
 /></a>
 
 <a href="https://twitter.com/mich_sys" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mich-syslogo=twitter&style=for-the-badge&color=22c55e&labelColor=181824&?label=Follow%20%40mich-sys" /></a>
+src="https://img.shields.io/twitter/follow/mich-sys?label=Follow%20%40mich-sys&logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
 
 <a href="https://github.com/mich_sys" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mich-sys?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
