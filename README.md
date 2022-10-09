@@ -29,6 +29,7 @@ Young and highly efficient with passion for Web Application Development.I am foc
 * ⚡  Linux Fanboy 
 
 
+
 <a href="https://twitter.com/mich_sys" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mich-sys?label=Follow%20%40mich-sys&logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
 
@@ -36,15 +37,12 @@ src="https://img.shields.io/twitter/follow/mich-sys?label=Follow%20%40mich-sys&l
 src="https://img.shields.io/github/followers/mich-sys?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
 
 
-<a href="https://twitter.com/mich_sys" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mich-sys?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
-
                                                                                                                                              
 ### Skills
 
 
 
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="REact" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 
 
