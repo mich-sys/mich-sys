@@ -55,7 +55,7 @@ src="https://img.shields.io/github/followers/mich-sys?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mich-sys"><img src="https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="yhoungdev's GitHub stats" /></a>
+<a href="http://www.github.com/mich-sys"><img src="https://github-readme-stats.vercel.app/api?username=mich-sys&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true%22%20alt=%22yhoungdev%27s%20GitHub%20stats" /></a>
 
 <a href="http://www.github.com/mich-sys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mich-sys&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
