@@ -7,7 +7,7 @@
 Christ Follower | Frontend Engineer | 
 ------------------------------------------------------------
 
-Young and highly efficient with passion for Web Application Development.I am focused on creating interactive digital experiences on the web with ReactJs . Contributing to the tech ecosystem with Opensource , because the Future is Open, when I'm bored i play Call Of Duty and go for walks 🛼
+Young and highly efficient with passion for Web Application Development. Focused on creating interactive digital experiences on the web with ReactJs . Contributing to the tech ecosystem with Opensource , because the Future is Open, when I'm bored i play Call Of Duty and go for walks 🛼
  
 * 🌍  I'm based in 127.0.0.1
 * ⚡  Linux Fanboy 
