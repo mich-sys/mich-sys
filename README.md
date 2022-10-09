@@ -35,7 +35,7 @@ src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=f
 /></a>
 
 <a href="https://twitter.com/mich_sys" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mich-sys?label=Follow%20%40mich-sys&logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
+src="https://img.shields.io/twitter/follow/mich-syslogo=twitter&style=for-the-badge&color=22c55e&labelColor=181824&?label=Follow%20%40mich-sys" /></a>
 
 <a href="https://github.com/mich_sys" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mich-sys?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
