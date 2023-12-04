@@ -4,7 +4,7 @@
 
 
 
-Christ Follower | Frontend Engineer | 
+Christ Follower | Software Engineer | 
 ------------------------------------------------------------
 
 Young and highly efficient with passion for Web Application Development. Focused on creating interactive digital experiences on the web with ReactJs . Contributing to the tech ecosystem with Opensource , because the Future is Open, when I'm bored i play Call Of Duty and go for walks 🛼
