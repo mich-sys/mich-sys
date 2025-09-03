@@ -11,8 +11,8 @@ Full-stack developer with 4 years of experience creating interactive digital exp
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [in progress]
-* ✉️  You can contact me at ademejimichael34@g,ail.com
-* 🚀  I'm currently working on [Library Management System]
+* ✉️  You can contact me at ademejimichael34@gmail.com
+* 🚀  I'm currently working on Library Management System.
 * 🧠  I'm learning Java Spring Boot
 * 🤝  I'm open to collaborating on innovative web applications and open source projects
 * ⚡  Linux Fanboy | When I'm bored I play Call Of Duty and go for walks :)
