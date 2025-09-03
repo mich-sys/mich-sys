@@ -17,8 +17,8 @@ Full-stack developer with 4 years of experience creating interactive digital exp
 * 🤝  I'm open to collaborating on innovative web applications and open source projects
 * ⚡  Linux Fanboy | When I'm bored I play Call Of Duty and go for walks :)
 
-<a href="https://twitter.com/mich_sys" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mich_sys?label=Follow%20%40mich_sys&logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
+<a href="https://x.com/ademejimichael" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ademejimichael?label=Follow%20%40ademejimichael&logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
 <a href="https://github.com/mich-sys" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mich-sys?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
 
