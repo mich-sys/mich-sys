@@ -61,24 +61,24 @@ src="https://img.shields.io/github/followers/mich-sys?logo=github&style=for-the-
 
 <div width="100%" align="center">
   <a href="https://github.com/mich-sys/working-with-node" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mich-sys&repo=your-top-project-1&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mich-sys&repo=my-top-project-1&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/mich-sys/your-top-project-2" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mich-sys&repo=your-top-project-2&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
+  <a href="https://github.com/mich-sys/bank-web-app" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mich-sys&repo=my-top-project-2&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
   </a>
 </div>
 
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
-  <a href="https://github.com/mich-sys/your-top-project-3" align="left">
+  <a href="https://github.com/mich-sys/GPT-3" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mich-sys&repo=your-top-project-3&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/mich-sys/your-top-project-4" align="right">
+  <a href="https://github.com/mich-sys/binary_trees" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mich-sys&repo=your-top-project-4&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
   </a>
 </div>
 
-### Support Me
+
 
 <a href="https://www.buymeacoffee.com/michsys"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
