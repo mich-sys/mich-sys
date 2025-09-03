@@ -78,6 +78,7 @@ src="https://img.shields.io/github/followers/mich-sys?logo=github&style=for-the-
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mich-sys&repo=bank-web-app&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
   </a>
 </div>
+<br /><br /><br /><br /><br />
 
 ### SUPPORT ME
 
