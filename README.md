@@ -7,12 +7,12 @@
 
 ------------------------------------------------------------
 
-Full-stack developer with 4 years of experience creating interactive digital experiences with React.js and Node.js. Currently expanding my expertise with Java Spring Boot to build more robust backend solutions. I specialize in scalable web applications using MongoDB, while actively contributing to open source projects. Driven by the belief that 'the Future is Open,' I combine technical expertise with collaborative development to deliver impactful solutions.
+Full-stack developer with 4 years of experience creating interactive digital experiences with React.js and Node.js. Currently expanding my expertise with Java Spring Boot to build more robust backend solutions. I specialize in scalable web applications using MongoDB, I aminterested in contributing to open source projects. Driven by the belief that 'the Future is Open,' I combine technical expertise with collaborative development to deliver impactful solutions.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [in progress]
 * ✉️  You can contact me at ademejimichael34@gmail.com
-* 🚀  I'm currently working on Library Management System.
+* 🚀  I'm currently working on a Library Management System.
 * 🧠  I'm learning Java Spring Boot
 * 🤝  I'm open to collaborating on innovative web applications and open source projects
 * ⚡  Linux Fanboy | When I'm bored I play Call Of Duty and go for walks :)
