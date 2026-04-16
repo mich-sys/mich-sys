@@ -7,15 +7,15 @@
 
 ------------------------------------------------------------
 
-Full-stack developer with 4 years of experience creating interactive digital experiences with React.js and Node.js. Currently expanding my expertise with Java Spring Boot to build more robust backend solutions. I specialize in scalable web applications using MongoDB, I aminterested in contributing to open source projects. Driven by the belief that 'the Future is Open,' I combine technical expertise with collaborative development to deliver impactful solutions.
+Full-stack developer with years of experience creating interactive digital experiences with React.js and Node.js. Currently expanding my expertise with Java Spring Boot to build more robust backend solutions. I specialize in scalable web applications using MongoDB, I combine technical expertise with collaborative development to deliver impactful solutions.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at https://moademeji.netlify.app
 * ✉️  You can contact me at ademejimichael34@gmail.com
 * 🚀  I'm currently working on a Blog Platform.
 * 🧠  I'm learning Java Spring Boot
-* 🤝  I'm open to collaborating on innovative web applications and open source projects
-* ⚡  Linux Fanboy | When I'm bored I play Call Of Duty and go for walks :)
+* 🤝  I'm open to collaborating on innovative web applications 
+* ⚡  Linux Fanboy | When I'm bored I play chess and go for long walks :)
 
  
 <a href="https://twitter.com/ademejimichael" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
