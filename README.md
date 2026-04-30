@@ -1,6 +1,6 @@
 # Ademeji Michael
 
-**Software Engineer · React · Node.js · Open Source**
+**Software Engineer · JAVA · Node.js · Open Source**
 
 ---
 
